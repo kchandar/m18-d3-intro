@@ -20,7 +20,7 @@ var exam3 = [
   {id:1, student:'Jade', grade:95},
   {id:2, student:'Billy', grade:80},
   {id:3, student:'Rose', grade:80},
-  {id:4, student:'Avery', grade:70},
+  {id:4, student:'Avery', grade:40},
 ];
 
 // You'll have to wait for you page to load to assign events to the elements created in your index.html file
